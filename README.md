@@ -1,2 +1,2 @@
 # Oscar-Study-Case
-Analysis of the data set and Oscar Winner prediction.
+Analysis of the data and prediction of Oscar winner.
